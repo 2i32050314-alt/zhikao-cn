@@ -1,7 +1,7 @@
 build.py @ 2026-11-07
 上线页面：64 ｜ 覆盖省份：8（anhui,henan,jiangsu,liaoning,neimenggu,shandong,shanxi,tianjin）｜ 【待核】总数：492
 低信息量排除（核心字段<6/9 不上线）：5 页｜liaoning/hushi(4/9)；neimenggu/hushi(4/9)；shandong/xfshey(0/9)；shanxi/hushi(4/9)；tianjin/fakao(5/9)
-SITE_ORIGIN：https://pending.maozi.io
+SITE_ORIGIN：https://zhikaocn-10h3a3mh.maozi.io
 CORRECTION_EMAIL：2966124085@qq.com
 三条构建断言：A1 source_url ✔ ｜ A2 verified_at≤400天 ✔ ｜ A3 【待核】原样渲染 ✔
 
